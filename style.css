@@ -1,0 +1,42 @@
+html {
+  background-color: rebeccapurple;
+}
+.para {
+  height: 100px;
+  width: 100px;
+  background-color: white;
+}
+
+.redbox {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  margin-left: -10px;
+  margin-top: -10px;
+}
+
+.bluebox {
+  width: 300px;
+  height: 400px;
+  background-color: blue;
+  border: 2px solid red;
+  margin-left: -10px;
+}
+
+.greenbox {
+  width: 250px;
+  height: 600px;
+  background-color: green;
+  border-radius: 6px;
+  margin-left: -10px;
+}
+
+.heading {
+  width: 400px;
+  text-align: center;
+}
+
+.heading2 {
+  width: 800px;
+  text-align: right;
+}
